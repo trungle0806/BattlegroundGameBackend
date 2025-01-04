@@ -1,0 +1,8 @@
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\BattlegroundGameBackend\backend\obj\Debug\net8.0\backend.sourcelink.json
